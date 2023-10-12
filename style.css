@@ -1,0 +1,25 @@
+
+
+h2{
+    text-align: center;
+    font-size: 38px;
+}
+
+form{
+    display:flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#searchimage{
+    width: 120px;
+    height: 20px;
+    
+}
+
+#search-btn{
+    background-color: greenyellow;
+    border-style: hidden;
+    color: blue;
+    cursor: pointer;
+}
